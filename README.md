@@ -1,2 +1,5 @@
 # fstar-crypto
-Formal verification of basic cryptography using Fstar
+
+Fstar Verification of Cryptography.
+
+Code includes those provided in [fstar-tutorial](https://www.fstar-lang.org/tutorial/). 
